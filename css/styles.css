@@ -1,0 +1,40 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #5e5e5e;
+    font-weight: 300;
+}
+h4 {
+	font-family: 'Open Sans', sans-serif;
+	color: #5e5e5e;
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 35%;
+}
+.projects-title {
+    margin-top: 50px;
+}
+.title {
+    color: silver;
+    margin-bottom: 50px;
+    text-align: center;
+}
+hr {
+    display: block;
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #ffffff;
+}
+.title-super {
+    font-size: 60px;
+}
+.title-logo {
+	max-width: 100px;
+	max-height: 100px;
+    margin: 20px;
+}
+footer {
+	margin-top: 50px;
+	font-size: 1.2em;
+	font-weight: 400;
+	text-align: center;
+}
+
